@@ -1,4 +1,4 @@
-package holamundo;
+package ejercicios;
 
 public class SumarDosNumeros {
     public static void main(String[] args) {

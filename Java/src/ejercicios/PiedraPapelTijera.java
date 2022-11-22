@@ -1,4 +1,4 @@
-package holamundo;
+package ejercicios;
 
 import java.util.Scanner;
 

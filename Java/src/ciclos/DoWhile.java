@@ -1,4 +1,4 @@
-package holamundo;
+package ciclos;
 
 import java.util.Scanner;
 
